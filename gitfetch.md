@@ -15,3 +15,5 @@ git fetch origin issue25
 ```
 git fetch --all
 ```
+
+[< вернуться](./readme.md)

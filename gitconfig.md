@@ -46,3 +46,5 @@ git config --local alias.c commit
 ```
 git remote add origin https://github.com/Podisens3003/git-firstwork.git
 ```
+
+[< вернуться](./readme.md)

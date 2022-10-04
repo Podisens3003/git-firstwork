@@ -13,3 +13,5 @@ git add .\gitinit.md
 ~~~
 git add GIT_instruction 
 ~~~
+
+[< вернуться](./readme.md)

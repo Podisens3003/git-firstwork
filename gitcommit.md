@@ -23,3 +23,5 @@ git commit -m "Fixed gitinit.md link"
 git commit -аm "Fixed gitinit.md link"
 ```
 Можно с помощью параметра `git commit --amend` изменить последний коммит вместо создания нового, это позволяет добавить в предыдущий коммит проиндексированные изменения.
+
+[< вернуться](./readme.md)
